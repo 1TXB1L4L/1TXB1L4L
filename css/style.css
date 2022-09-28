@@ -86,6 +86,30 @@ a{
     position: relative;
     padding-left: 10px;
 }
+.author{
+    position: absolute;
+    display: flex;
+    bottom: 1rem;
+}
+
+.author img{
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    border:3px solid white;
+}
+.author p{
+    margin-left: 1rem;
+    color: white;
+    font-weight: 500;
+    
+}
+
+@media screen and (max-width:600px) {
+    .quotes{
+        padding: 5%;
+    }
+}
 
 /* media queres */
 @media(max-width:780px){
