@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=1TXB1L4L&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="My GitHub Streak Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=1txb1l4l&theme=dark&hide_border=true" alt="My GitHub Streak Stats">
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=1txb1l4l&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="My GitHub Stats">
   <br>
